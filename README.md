@@ -1,7 +1,5 @@
 # Personal Website
 
-Simple overview of use/purpose.
-
 ## Description
 
 This project will teach you how to build your personal website on heroku.
