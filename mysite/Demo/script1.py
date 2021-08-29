@@ -14,5 +14,13 @@ def about():
 def education():
     return render_template("education.html")
 
+@app.route('/research/')
+def research():
+    return render_template("research.html")
+
+@app.route('/projects/')
+def projects():
+    return render_template("projects.html")
+
 if __name__ == "__main__":
     app.run(debug = True)
