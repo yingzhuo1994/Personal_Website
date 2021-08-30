@@ -79,12 +79,12 @@ div.projects {
           border-radius: 6px;
 }
 
-h2 {
-  font-size: 3em;
+/* h2 {
+  font-size: 1.7em;
   margin-top: 40px;
-  text-align: center;
+  text-align: left;
   letter-spacing: -2px;
-}
+} */
 
 h3 {
   font-size: 1.7em;
